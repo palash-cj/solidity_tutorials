@@ -22,7 +22,7 @@ contract dynamicArray{
         arr.length;
 
         //get
-        uint public num=arr[2];
+        uint num=arr[2];
         
     }
 }
